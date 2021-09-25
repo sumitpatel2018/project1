@@ -41,6 +41,12 @@
     margin-top: 50px;
     cursor: pointer;
 }
+button:hover
+{
+    background-color:  #ff3753;
+    transition: 0.8s;
+    /*font-size: large;*/
+}
 .content button img{
     width: 15px;
     margin-left: 10px;
